@@ -49,3 +49,120 @@ h2 {
 #jumbo {
   background-color: white;
 }
+
+#subtext {
+  margin-left: 40px;
+}
+
+.card-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-body {
+  height: 400px;
+}
+
+.card {
+  color: rgb(49, 49, 49);
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 5px rgb(133, 133, 133);
+  cursor: pointer;
+  background-color:rgb(220, 254, 255);
+  color: black;
+  transition: .5s;
+}
+
+#card_deck {
+  margin-top: 50px;
+}
+
+#img-row {
+  margin-top: 70px;
+  margin-right: 5px;
+  margin-bottom: 50px;
+  margin-left: 5px;
+  border-top: solid #000;
+  padding-top: 50px;
+}
+
+.link {
+  color: black !important;
+}
+
+.link:hover {
+  stroke: white !important;
+  transition: 3s !important;
+}
+
+#email_link {
+  color: black;
+}
+
+#email_link:hover {
+  color: rgb(17, 0, 255);
+}
+
+.faq-container {
+  width: 80%;
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+button.accordion {
+  width: 100%;
+  background-color: whitesmoke;
+  border: none;
+  outline: none;
+  text-align: left;
+  padding: 15px 20px;
+  font-size: 18px;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.2s linear;
+}
+
+button.accordion:after {
+  font-family: FontAwesome;
+  content: '\f150';
+  font-family: fontawesome;
+  font-size: 18px;
+  float: right;
+}
+
+button.accordion.is-open:after {
+  content: '\f056';
+}
+
+button.accordion:hover,button.accordion.is-open {
+  background-color: #ddd;
+}
+
+.accordion-content {
+  background-color: white;
+  border-left: 1px solid whitesmoke;
+  border-right: 1px solid whitesmoke;
+  padding: 0 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-in-out;
+}
+
+#email {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#message {
+  margin-bottom: 10px;
+  height: 200px;
+  width: 300px;
+}
+
+#contact-button {
+  margin-bottom: 20px;
+  margin-left: 235px;
+}

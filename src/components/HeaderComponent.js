@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Nav, Navbar, NavbarBrand, NavbarToggler, Collapse, NavItem, Jumbotron, Button, Modal, ModalHeader, 
-    Form, FormGroup, Input, Label, ModalBody} from 'reactstrap';
+import { Nav, Navbar, NavbarBrand, NavbarToggler, Collapse, NavItem, Jumbotron} from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 
 class Header extends Component {
@@ -44,22 +43,17 @@ class Header extends Component {
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
-                                    <NavLink className="nav-link" to="/home">
-                                        <i className="fa fa-lg"/> About 
+                                    <NavLink className="nav-link" to="/book">
+                                        <i className="fa fa-lg"/> Book
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
-                                    <NavLink className="nav-link" to="/home">
+                                    <NavLink className="nav-link" to="/faq">
                                         <i className="fa fa-lg"/> FAQ
                                     </NavLink>
                                 </NavItem>
                                 <NavItem>
-                                    <NavLink className="nav-link" to="/home">
-                                        <i className="fa fa-lg"/> Location
-                                    </NavLink>
-                                </NavItem>
-                                <NavItem>
-                                    <NavLink className="nav-link" to="/home">
+                                    <NavLink className="nav-link" to="/contact">
                                         <i className="fa fa-lg"/> Contact
                                     </NavLink>
                                 </NavItem>
