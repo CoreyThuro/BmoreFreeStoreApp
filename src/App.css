@@ -98,6 +98,7 @@ h2 {
   transition: 3s !important;
 }
 
+
 #email_link {
   color: black;
 }
@@ -156,13 +157,16 @@ button.accordion:hover,button.accordion.is-open {
   margin-bottom: 10px;
 }
 
-#message {
-  margin-bottom: 10px;
+textarea {
   height: 200px;
-  width: 300px;
+  width: 400px;
 }
 
 #contact-button {
+  margin-top: 10px;
   margin-bottom: 20px;
-  margin-left: 235px;
+}
+
+#contact-header {
+  margin-top: 20px;
 }

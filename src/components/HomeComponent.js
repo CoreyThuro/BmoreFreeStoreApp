@@ -20,7 +20,7 @@ class Home extends Component {
     return (
       <div className="container">
         <div id="card_deck" className="row">
-          <div className="col-md m-1">
+          <div className=" col-sm-4 col-md m-1">
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
@@ -36,7 +36,7 @@ class Home extends Component {
               </Card>
             </Link>
           </div>
-          <div className="col-md m-1">
+          <div className="col-sm-4 col-md m-1">
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
@@ -52,7 +52,7 @@ class Home extends Component {
               </Card>
             </Link>
           </div>
-          <div className="col-md m-1">
+          <div className="col-sm-4 col-md m-1">
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
