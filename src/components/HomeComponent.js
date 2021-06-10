@@ -24,11 +24,11 @@ class Home extends Component {
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
+                  <CardTitle>Books</CardTitle>
                   <CardImg
                     src="./assets/images/books.png"
                     alt="picture of books"
                   />
-                  <CardTitle>Books</CardTitle>
                   <CardText>
                     A wide, ever-changing assortment of used books.
                   </CardText>
@@ -40,11 +40,11 @@ class Home extends Component {
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
+                  <CardTitle>Clothes</CardTitle>
                   <CardImg
                     src="./assets/images/clothes.png"
                     alt="picture of clothes"
                   />
-                  <CardTitle>Clothes</CardTitle>
                   <CardText>
                     Clothing options for any style size or occasion.
                   </CardText>
@@ -56,12 +56,12 @@ class Home extends Component {
             <Link className="link" to="/book">
               <Card>
                 <CardBody>
+                  <CardTitle>Electronics</CardTitle>
                   <CardImg
                     style={eCardStyle}
                     src="/assets/images/electronics.png"
                     alt="picture of electronics"
                   />
-                  <CardTitle>Electronics</CardTitle>
                   <CardText>
                     Laptops, phones, keyboards, headphones, microwaves, fans,
                     and other utilities.

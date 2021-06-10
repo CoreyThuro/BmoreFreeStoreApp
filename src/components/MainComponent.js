@@ -10,6 +10,7 @@ import { TransitionGroup, CSSTransition } from "react-transition-group";
 
 
 class Main extends Component {
+
   render() {
     return (
       <div>
@@ -26,7 +27,6 @@ class Main extends Component {
           </CSSTransition>
         </TransitionGroup>
         <Footer />
-        );
       </div>
     );
   }
