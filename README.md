@@ -1,4 +1,4 @@
-This is an application for a nonexistant Store in Baltimore. 
+This is an application for a non-existent Store in Baltimore. 
 
 Technologies used:
 
