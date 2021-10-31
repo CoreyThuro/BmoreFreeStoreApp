@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CoreyThuro/BmoreFreeStoreApp/static/css/main.5670a3a3.chunk.css",
+    "main.js": "/CoreyThuro/BmoreFreeStoreApp/static/js/main.4e589f23.chunk.js",
+    "main.js.map": "/CoreyThuro/BmoreFreeStoreApp/static/js/main.4e589f23.chunk.js.map",
+    "runtime-main.js": "/CoreyThuro/BmoreFreeStoreApp/static/js/runtime-main.3b31c1ab.js",
+    "runtime-main.js.map": "/CoreyThuro/BmoreFreeStoreApp/static/js/runtime-main.3b31c1ab.js.map",
+    "static/css/2.f6aa8dcc.chunk.css": "/CoreyThuro/BmoreFreeStoreApp/static/css/2.f6aa8dcc.chunk.css",
+    "static/js/2.c284220e.chunk.js": "/CoreyThuro/BmoreFreeStoreApp/static/js/2.c284220e.chunk.js",
+    "static/js/2.c284220e.chunk.js.map": "/CoreyThuro/BmoreFreeStoreApp/static/js/2.c284220e.chunk.js.map",
+    "index.html": "/CoreyThuro/BmoreFreeStoreApp/index.html",
+    "precache-manifest.9dccf4cccaad627f33bd4fa8ac6c9493.js": "/CoreyThuro/BmoreFreeStoreApp/precache-manifest.9dccf4cccaad627f33bd4fa8ac6c9493.js",
+    "service-worker.js": "/CoreyThuro/BmoreFreeStoreApp/service-worker.js",
+    "static/css/2.f6aa8dcc.chunk.css.map": "/CoreyThuro/BmoreFreeStoreApp/static/css/2.f6aa8dcc.chunk.css.map",
+    "static/css/main.5670a3a3.chunk.css.map": "/CoreyThuro/BmoreFreeStoreApp/static/css/main.5670a3a3.chunk.css.map",
+    "static/js/2.c284220e.chunk.js.LICENSE.txt": "/CoreyThuro/BmoreFreeStoreApp/static/js/2.c284220e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/CoreyThuro/BmoreFreeStoreApp/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/CoreyThuro/BmoreFreeStoreApp/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b31c1ab.js",
+    "static/css/2.f6aa8dcc.chunk.css",
+    "static/js/2.c284220e.chunk.js",
+    "static/css/main.5670a3a3.chunk.css",
+    "static/js/main.4e589f23.chunk.js"
+  ]
+}
